@@ -1,0 +1,44 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+    color: #333;
+}
+
+header {
+    background: #2d2d89;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+section {
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.botao-compra {
+    display: inline-block;
+    background: #28a745;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.capa {
+    width: 100%;
+    max-width: 300px;
+    margin-top: 20px;
+    display: block;
+}
